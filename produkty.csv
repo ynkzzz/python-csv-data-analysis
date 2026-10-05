@@ -1,0 +1,8 @@
+id,produkt,kategoria,cena,na_sklade
+1,Herná myš,Elektronika,25.50,True
+2,Mechanická klávesnica,Elektronika,89.90,True
+3,Monitor 24",Elektronika,149.00,False
+4,Tričko Python,Oblečenie,15.00,True
+5,Káva Espresso,Potraviny,12.30,True
+6,USB Kábel Type-C,Elektronika,8.50,True
+7,Herné slúchadlá,Elektronika,65.00,False
